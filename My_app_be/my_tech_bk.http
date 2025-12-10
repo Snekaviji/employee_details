@@ -1,0 +1,6 @@
+@my_tech_bk_HostAddress = http://localhost:5051
+
+GET {{my_tech_bk_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
